@@ -1,0 +1,3 @@
+name: Push to TFED ECR Repository
+run-name: ${{ github.actor }} is sending your work to the TFED site! 🚀
+on: [push]
