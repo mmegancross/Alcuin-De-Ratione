@@ -384,8 +384,8 @@
           homini
           <choice>
             <abbr>bonu</abbr>
-            <exp>bonum</exp>
-          </choice>
+            <expan>bonum</expan>
+          </choice> <!-- review use of <abbr> and <expan> tag -->
           amare. Naturale est
           <choice>
             <orig>&amp;ia<macron/></orig>
@@ -411,7 +411,7 @@
         <lb n="13" />
         <choice>
           <abbr>Ile</abbr>
-          <exp>Ille</exp>
+          <expan>Ille</expan> <!-- review use of <abbr> and <expan> tag -->
         </choice>
         est indeficiens bonum, plena pulchritudo, totius felicitatis abundantia.
 
@@ -430,7 +430,7 @@
         in anima esse poterit. Et hoc
         <choice>
           <abbr>anima</abbr>
-          <exp>animae</exp>
+          <expan>animae</expan> <!-- review use of <abbr> and <expan> tag; -->
         </choice>
         esse poterit; Et hoc
         <choice>
@@ -1063,11 +1063,11 @@
         si corrupt[a]e erunt omnes
         <choice>
           <abbr>pene</abbr>
-          <exp>paene</exp>
+          <expan>paene</expan> <!-- review use of <abbr> and <expan> tag; -->
         </choice>
         <choice>
           <abbr>pulalant</abbr>
-            <exp>pullalant</exp>
+            <expan>pullalant</expan> <!-- review use of <abbr> and <expan> tag; -->
           </choice>
           pestes. Concupiscentia data
 
